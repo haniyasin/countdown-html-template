@@ -72,7 +72,7 @@ body {
  * ## links - (_document-setup.scss)
  * ------------------------------------------------------------------- */
 a {
-  color: #ec008c;
+  color: #09788B;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -367,7 +367,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #ec008c;
+  background: #09788B;
   position: absolute;
   left: -17px;
   top: 11px;
@@ -376,7 +376,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #ec008c;
+  color: #09788B;
 }
 
 dd {
@@ -501,7 +501,7 @@ form,
 }
 
 .pace .pace-progress {
-  background: #ec008c;
+  background: #09788B;
   position: fixed;
   z-index: 900;
   top: 0;
@@ -545,7 +545,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-  background-color: #ec008c;
+  background-color: #09788B;
   width: 4px;
   height: 35px;
   border-radius: 2px;
@@ -776,7 +776,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #ec008c;
+  -webkit-text-fill-color: #09788B;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -835,8 +835,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #ec008c;
-  border-color: #ec008c;
+  background: #09788B;
+  border-color: #09788B;
   color: #FFFFFF;
 }
 
@@ -1062,7 +1062,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #ec008c;
+  color: #09788B;
 }
 
 .stats-tabs li a em {
@@ -1116,7 +1116,7 @@ input::-moz-focus-inner {
   width: 100%;
   height: 100%;
   opacity: .85;
-  background: linear-gradient(to right, black 0%, black 20%, transparent 100%);
+  background: linear-gradient(to right, black 50%, black 80%, transparent 100%);
 }
 
 .s-home--particles {
@@ -1142,8 +1142,8 @@ input::-moz-focus-inner {
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: .3;
-  background-color: #252020;
+  opacity: .7;
+  background-color: #090909;
 }
 
 .s-home .gradient-overlay {
@@ -1155,7 +1155,7 @@ input::-moz-focus-inner {
   width: 100%;
   height: 100%;
   opacity: .6;
-  background: linear-gradient(to right, black 0%, black 20%, transparent 100%);
+  background: linear-gradient(to right, black 0%, black 50%, transparent 65%);
 }
 
 .info-is-visible .s-home {
@@ -1244,8 +1244,8 @@ input::-moz-focus-inner {
 }
 
 .home-logo img {
-  width: 100px;
-  height: 25px;
+  width: 200px;
+  height: 200px;
 }
 
 
@@ -1352,8 +1352,8 @@ input::-moz-focus-inner {
 
 #mc-form input[type=submit] {
   color: #FFFFFF;
-  background: #ec008c;
-  border-color: #ec008c;
+  background: #09788B;
+  border-color: #09788B;
   padding: 0 25px;
   margin: 0;
   position: absolute;
@@ -1414,7 +1414,7 @@ input::-moz-focus-inner {
   display: inline-block;
   font-family: "metropolis-regular", sans-serif;
   letter-spacing: 0;
-  background-color: #ec008c;
+  background-color: #09788B;
   color: #FFFFFF;
   padding: 9px 12px;
   bottom: 1.3em;
@@ -1424,7 +1424,7 @@ input::-moz-focus-inner {
   display: block;
   width: 1px;
   height: 12rem;
-  background-color: #ec008c;
+  background-color: #09788B;
   position: absolute;
   right: 84px;
   bottom: 0;
@@ -1483,7 +1483,7 @@ input::-moz-focus-inner {
 
 .home-social span {
   font-size: 1.2rem;
-  color: #ec008c;
+  color: #09788B;
   right: 6rem;
   opacity: 0;
   visibility: hidden;
@@ -2067,7 +2067,7 @@ html.no-csstransitions .home-content__main {
   font-family: "metropolis-regular", sans-serif;
   font-size: 1.4rem;
   line-height: 1.286;
-  color: #ec008c;
+  color: #09788B;
 }
 
 .info-wrapper {
@@ -2205,7 +2205,7 @@ html.no-csstransitions .home-content__main {
   top: 50%;
   right: auto;
   bottom: auto;
-  background-color: #ec008c;
+  background-color: #09788B;
   -webkit-transition: background 0.2s ease-in-out;
   transition: background 0.2s ease-in-out;
 }
@@ -2242,7 +2242,7 @@ html.no-csstransitions .home-content__main {
 
 .info-is-visible .info-menu-icon::before,
 .info-is-visible .info-menu-icon::after {
-  background-color: #ec008c;
+  background-color: #09788B;
   -webkit-transition-delay: 0s, 0.2s;
   transition-delay: 0s, 0.2s;
 }
